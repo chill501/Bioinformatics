@@ -12,3 +12,7 @@ Does what it says on the tin really. Extract IDs of sequences from input FASTA f
 
 From an input FASTA file, define the length of each sequence. 
 
+## change_name_of_ID.py
+
+Extract a specific part of the ID in a FASTA and remove the parts of the ID you don't need. 
+In this example, splitting the ID bases on the '|' separator to retaining just the Gene ID. 
