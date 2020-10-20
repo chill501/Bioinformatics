@@ -21,3 +21,7 @@ In this example, splitting the ID bases on the '|' separator to retaining just t
 
 From imported FASTA files, export sequences over 30bp long.
 
+## remove_sequence_unavailable.py
+
+Remove entries from a FASTA file which display 'sequence unavailable'  
+
