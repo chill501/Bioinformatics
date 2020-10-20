@@ -16,3 +16,8 @@ From an input FASTA file, define the length of each sequence.
 
 Extract a specific part of the ID in a FASTA and remove the parts of the ID you don't need. 
 In this example, splitting the ID bases on the '|' separator to retaining just the Gene ID. 
+
+## extract_Seq_over_30bp.py
+
+From imported FASTA files, export sequences over 30bp long.
+
